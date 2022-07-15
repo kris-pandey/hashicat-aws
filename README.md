@@ -5,5 +5,5 @@ Includes "Meow World" website.
 
 [![CircleCI](https://circleci.com/gh/hashicorp/hashicat-aws.svg?style=svg)](https://circleci.com/gh/hashicorp/hashicat-aws)
 
-kris-pandey
+name: kris-pandey
 
